@@ -126,7 +126,7 @@ The left terminal first dumps OVS1's flow table (the drop rule, learned flows an
 <details>
 <summary>I/O graph of the capture</summary>
 
-![Wireshark I/O graph](images/wireshark-io-graph.jpg)
+![Wireshark I/O graph](images/wireshark-io-graph.png)
 
 </details>
 
